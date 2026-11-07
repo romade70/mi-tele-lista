@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:60,EL CHAVO
+https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
+#EXTINF:0, MR BEAN ANIMADO
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
+#EXTINF:64,Xtrema Cartoons
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:25,BOB ESPONJA 
+https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
+#EXTINF:11,Pakapaka
+http://138.59.227.20:8000/play/a05t/index.m3u8
+#EXTINF:0,CARTOON NETWORK
+http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+#EXTINF:0,DISNEY CHANNEL
+http://45.166.93.156:9999/play/a0f3/index.m3u8
+#EXTINF:0,Distrito Comedia (1080p)
+http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:11,Film & Arts (1080p)
+http://200.115.120.1:8000/play/ca131/index.m3u8
+#EXTINF:23,Sony Channel (1080p)
+http://138.121.15.230:9002/SONY/index.m3u8
+#EXTINF:11,Space (1080p)
+http://45.171.64.30:6060/play/a04n/index.m3u8
+#EXTINF:11,HBO 2
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:0,DE PELICULA
+http://38.19.41.46:8081/DEPELICULA/index.m3u8
+#EXTINF:22,Golden Edge (1080p)
+http://38.19.41.46:8081/GOLDENEDGE/index.m3u8
+#EXTINF:0,National Geographic (1080p)
+http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:0,TLNOVELAS
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:0, RCN+
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:0, POP CORN CENTRAL
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:0,AZTECA CINEMA
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:0,ADRENALINA PURA
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:0, PELIMEX
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:0,KIDS MOVIE
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+#EXTINF:0,CineLatino (720p)
+http://45.162.193.35/CINELATINO_HD/index.m3u8
+#EXTINF:65,Xtrema Cine Clasico
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:66,Xtrema Terror
+#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
+#EXTINF:0,CNN en Espa ol
+http://181.78.79.131:8000/play/a0p3
+#EXTINF:0,IMAGEN TV
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:0, MAS TELEVISION
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:0,Milenio Televisi n 
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:0,ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0,Super Channel 12 (1080p)
+https://servilive.com:3263/live/channel12live.m3u8
+#EXTINF:0,Failarmy International (720p)
+https://failarmy-international-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,People are Awesome (720p)
+https://jukin-peopleareawesome-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Once
+#EXTVLCOPT:network-caching=1000
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+#EXTINF:0,Canal de las Estrellas Televisa
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+#EXTINF:40,MULTIMEDIOS TV
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:0,Canal 22 Nacional (720p) [Geo-blocked]
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:11, NUESTRA TELE 
+http://45.173.231.22:8000/play/a0cr/index.m3u8
+#EXTINF:0,Univision Latin America (1080p)
+http://15.204.246.24:8080/UnivisionHD/index.m3u8
+#EXTINF:80,ESTUDIO TV
+https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
+#EXTINF:22,TELEMUNDO
+http://138.121.15.230:9002/TELEMUNDO/index.m3u8
+#EXTINF:14,TVP Los Mochis (720p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:59,Canal Canela TV
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb793e167b746f8f9acb6a6cd3fb11a4db0e68855361853f6eff079d20c61a5c8fbaf890bf698f1503d546823d5b72544367db01b9255f93813deb414a1807759a86b270c9fe4b57b4dc043a62b57e1541bc481fd120523c89a05a2f803ebe764a41b8583e0663ddec49db2f1090d655c360288eacc3612b695c58cd590cb7a70fbef9e35c44c56da0e71d559c7e47e79f169cd54aba81d05ecd4b867393a2aca8d1b37cd341b7bb51d43fa052245d3a749a8f0beba33f98fbeaa4bd0113522b305af4b79bbe6f3183554a5ff985bad7a26180affb4fad6f24fb2d974c8c399929d9617c0cddc1dfd8ec6b6f43c3f7526f26aceaa1c09c5f56e537a8f4ba8f3514f3872b1fe9b05c727b0b4101fe6729afe32e36fc53a4b96c0f31c3900ab69ca882fbbc8c44a6d5abadc4b53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded80cb91c9546a9f31550aa120fe5e0667c37b3e2cb47da9cb6c3dc9000397303bf4407ad117adf67c87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b74638684367d9e26a0c4a08e54cf6d6ccee6f494dacc0c4f0c45c2f147b70760998e9f37f8b84a27e45f6a0f4d093c5761bb8892cc29d393c44a5a9dc5dc56088/78/384x216_845520/index.m3u8
+#EXTINF:18, Canal 11
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
+#EXTINF:0, Canal 14
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:0, Caracol HD
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:30,Justicia TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+#EXTINF:30,Las Estrellas (1080p)
+#EXTVLCOPT:network-caching=1000
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:60,The Pet Collective International (720p)
+#EXTVLCOPT:network-caching=1000
+https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:60,WeatherSpy (720p)
+#EXTVLCOPT:network-caching=1000
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
+#EXTINF:16,Canal 15 ILCE Summa Sabres (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:1800,DW Espanol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:100,EWTN el Canal Catolico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:60,RCN M s (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:11,Telehit Latino
+http://200.115.120.1:8000/play/ca048/index.m3u8
+#EXTINF:11,Bandamax (1080p)
+http://181.78.106.127:5000/play/ca064/index.m3u8
+#EXTINF:60, That 90s Videos
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-rakutengb/cb7e3e167b746f8f9acb6a6cd3fb11a4db0e68825265873f3bac52c17fc6160a87b6f890ea43cd0821c055873d563c4e5879cb09c61b58998a25ef12240273649b98ac7bd2897550ecde0b213afb7c1a5aee4c53da24562397b95348a238b6720a5cba593f0662dced58bd000b87d55cd437368aa8dc7f396f4e5e970b5db4f657f7e2e75f44de71a0b04a49882644b48b5f9cd21de984dc5296118270f9762ba3caaaebbf4145a0499b2ada766f752765908376e1b137d4f4bb19f418ec4a3c737be9b187f60e1d8b425155fbfeb1ce0d388d5de857eb4c38a840b54087388378e87acf3aa333ccc9bc716817dea3686829a1e9af8bb15259d83eaaf1bf8e213af19c6547206714e9887218e96cc8b8b9e835ad1669f59564182ac99244d4b0b399eea4814b921f3aa69ea8104d546a080e8712f7d43d9b61ea71a6ca1c364f0d6a99da0494c8890570554688d60a8f5303ef8fd0c3cd18619b354a14b829997c006fc73b232eb57ca9ca6d3cd8662c8c2738fd572dcf13a9e962a5d5ae8f6c0cbcd0c34de87cafe45aa0912c9d2d6d094ce3886935226172cae76a013103b263edc1cfe7781140a1b7faf7ce5737102a5535288ef1ec64949eca4a4c4391b347a7b2e3a6f04bb774353294e83ff687683ded503ec0/150/1920x1080_4716800/index.m3u8
