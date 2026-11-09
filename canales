@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,eltrece
-https://srregio.online/php/tele_m3u.php?canal=eltrece&u=regio36&exp=1794194088&sig=f6b6801982b240c6599c069a070b002cdf3dc2e6de515565cf365f1c30976b52&f=.m3u8
-#EXTINF:60,EL CHAVO
-https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:0, MR BEAN ANIMADO
+#EXTINF:-1, NICKELODEON
+http://181.78.79.131:8000/play/a0qm
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:64,Xtrema Cartoons
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
