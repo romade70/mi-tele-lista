@@ -83,6 +83,8 @@ https://jukin-peopleareawesome-2-mx.samsung.wurl.tv/playlist.m3u8
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 #EXTINF:0,Canal de las Estrellas Televisa
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
+#EXTINF:-1 tvg-id="RTVE_SomosCine.TV" tvg-logo="https://graph.facebook.com/rtveplay/picture?width=200&height=200" group-title="Eventuales" tvg-name="Somos Cine (RTVE)",Somos Cine (RTVE)
+https://rtvelivestream.rtve.es/eventual/gofast/playm6_main.m3u8
 #EXTINF:40,MULTIMEDIOS TV
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:0,Canal 22 Nacional (720p) [Geo-blocked]
@@ -97,6 +99,8 @@ https://vd01.streaminghd.net.ar:3113/hybrid/play.m3u8
 http://138.121.15.230:9002/TELEMUNDO/index.m3u8
 #EXTINF:14,TVP Los Mochis (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/quierotvGDL/picture?width=200&height=200" group-title="Int. América" tvg-name="Quiero TV México",Quiero TV México
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
 #EXTINF:59,Canal Canela TV
 https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/cb793e167b746f8f9acb6a6cd3fb11a4db0e68855361853f6eff079d20c61a5c8fbaf890bf698f1503d546823d5b72544367db01b9255f93813deb414a1807759a86b270c9fe4b57b4dc043a62b57e1541bc481fd120523c89a05a2f803ebe764a41b8583e0663ddec49db2f1090d655c360288eacc3612b695c58cd590cb7a70fbef9e35c44c56da0e71d559c7e47e79f169cd54aba81d05ecd4b867393a2aca8d1b37cd341b7bb51d43fa052245d3a749a8f0beba33f98fbeaa4bd0113522b305af4b79bbe6f3183554a5ff985bad7a26180affb4fad6f24fb2d974c8c399929d9617c0cddc1dfd8ec6b6f43c3f7526f26aceaa1c09c5f56e537a8f4ba8f3514f3872b1fe9b05c727b0b4101fe6729afe32e36fc53a4b96c0f31c3900ab69ca882fbbc8c44a6d5abadc4b53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded80cb91c9546a9f31550aa120fe5e0667c37b3e2cb47da9cb6c3dc9000397303bf4407ad117adf67c87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b74638684367d9e26a0c4a08e54cf6d6ccee6f494dacc0c4f0c45c2f147b70760998e9f37f8b84a27e45f6a0f4d093c5761bb8892cc29d393c44a5a9dc5dc56088/78/384x216_845520/index.m3u8
 #EXTINF:18, Canal 11
