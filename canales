@@ -46,20 +46,6 @@ http://167.249.23.102:8000/play/a0g8/index.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0, POP CORN CENTRAL
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:0, NICK 2
-https://srregio.online/php/regiotv_external.php?canal=NICK&u=regio36&exp=1794231148&sig=26ee75dce2a60b4748fe91ec5cb0bf977e620124e6f12bcbeb56a84647d28b39&f=.m3u8
-#EXTINF:0, HISTORY 2
-https://srregio.online/php/tele_m3u.php?canal=history2&u=regio36&exp=1794231148&sig=5056aeffeb4809ffcc6710f8595539254fde2358b44f8b2eb97b1019f2d41e02&f=.m3u8
-#EXTINF:0, NAT GEO
-https://srregio.online/php/tele_m3u.php?canal=natgeo&u=regio36&exp=1794231148&sig=df4595dd36476418b2823e9f351a3604bea52ba6f710ba7bc7870b530d1a6f6a&f=.m3u8
-#EXTINF:0, DISTRITO COMEDIA
-https://srregio.online/php/tele_m3u.php?canal=distritocomedia&u=regio36&exp=1794231148&sig=aab67406973df1d31db47f4f8153dc849b2936ac89f3d95d078823c0d76f44eb&f=.m3u8
-#EXTINF:0, HBO 2
-https://srregio.online/php/regiotv_external.php?canal=HBO%202&u=regio36&exp=1794231148&sig=263e918a8c029b483f75c72b6b028aa40bcf4bacc24643cc632cde01034ebc57&f=.m3u8
-#EXTINF:0, UNIVISION
-https://srregio.online/php/tele_m3u.php?canal=univision&u=regio36&exp=1794231148&sig=d9bbaf79167110109a97f1072a195a662b1442f49e213954cd60a5bb7358c9ac&f=.m3u8
-#EXTINF:0, AXN
-https://srregio.online/php/regiotv_external.php?canal=AXN&u=regio36&exp=1794231148&sig=b266f2ac87c2881ee28bfbca259ad7d3766984723384292b17eb7ae4deb58626&f=.m3u8
 #EXTINF:0,AZTECA CINEMA
 http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 #EXTINF:0,ADRENALINA PURA
