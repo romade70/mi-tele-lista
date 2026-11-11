@@ -9,8 +9,6 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1, Canal 4 TV
 https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
-#EXTINF:-1, Canal 5 XHCG
-https://srregio.online/php/tele_m3u.php?canal=canal5&u=regio36&exp=1794428684&sig=2686c844d76beafb798202da5df4e62914660edeb4bf4076b61ccdcac9213b35&f=.m3u8
 #EXTINF:0,Azteca 7 (1080p)
 http://187.245.231.226:8000/play/a0uz/index.m3u8
 #EXTINF:18, Canal 11
