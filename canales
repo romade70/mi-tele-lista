@@ -235,34 +235,34 @@ https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 #EXTINF:0,Nickelodeon Teen (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
-#EXTINF:0,Kenan y Kel
+#EXTINF:0,Kenan y Kel PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:0,Mi Bella Genio
+#EXTINF:0,Mi Bella Genio PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
-#EXTINF:-1 tvg-id="",Hechizada
+#EXTINF:-1 tvg-id="",Hechizada PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-631fb6be21b7440007b9f606.m3u8
 #EXTINF:0,KIDS MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
-#EXTINF:0,Los Padrinos Mágicos
+#EXTINF:0,Los Padrinos Mágicos PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-6322099c822bbc00074857db.m3u8
-#EXTINF:25,BOB ESPONJA 
+#EXTINF:25,BOB ESPONJA PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-6254598f5083f800076d8563.m3u8
-#EXTINF:0,Avatar: La Leyenda de Aang
+#EXTINF:0,Avatar: La Leyenda de Aang PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
-#EXTINF:-1 tvg-id="MacGyver.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Classic",MacGyver (United States) LatAm
+#EXTINF:-1 tvg-id="MacGyver.us@LatAm" tvg-logo="https://images.pluto.tv/channels/63eb9dc84e83e70008abea92/colorLogoPNG.png" group-title="Classic",MacGyver PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1 tvg-id="",Hechiceras
+#EXTINF:-1 tvg-id="",Hechiceras PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-67f95fa76b11614ab0caaef3.m3u8
-#EXTINF:0,ADRENALINA PURA
+#EXTINF:0,ADRENALINA PURA PlutoTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
 #EXTINF:0,Maria Vision (1080p)
