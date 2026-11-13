@@ -4,7 +4,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 #EXTINF:-1 tvg-id="ImagenTV.mx@SD",Imagen TV (1080p)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-logo="https://image.shutterstock.com/image-photo/image-260nw-2222214579.jpg" group-title="Aire libre" tvg-name="N+ FORO 24 H3 · tecnotv.club",N+ FORO 24 H3
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&amp;redirect=true
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1794581352~acl=/*~hmac=1508d6001f663205177f575af02614bf554dfac6ea05637576e1afd835bc6d13
 #EXTINF:0,Canal de las Estrellas Televisa
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1, Canal 4 TV
