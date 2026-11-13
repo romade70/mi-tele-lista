@@ -15,8 +15,10 @@ http://187.245.231.226:8000/play/a0uz/index.m3u8
 https://vivo.canaloncelive.tv/secureoncedos/oncedigital/chunklist.m3u8
 #EXTINF:0, Canal 14
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
-#EXTINF:0,ADN 40 (720p)
+#EXTINF:0, ADN 40 (720p)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:0, FRANCE 24
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:0, Caracol HD
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:0, FREE TV
