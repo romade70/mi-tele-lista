@@ -41,6 +41,8 @@ https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/p
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:0, Caricaturas Niños
 https://cablered.iptvperu.tv:1936/cablered/adultswing_new/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Sylvanian_Families_la_pelaicula_El_regalo_de_Freya-890102680-large.jpg",Sylvanian Families La Película: El Regalo de Freya
+http://ia902200.us.archive.org/26/items/Peliculas-wii/Sylvanian%20Families%20La%20Pelicula%20-%20El%20regalo%20de%20Freya.mp4
 #EXTINF:0, RCN+
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:60, That 90s Videos
