@@ -3,6 +3,8 @@
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx@SD",Imagen TV (1080p)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:0, N+ FORO
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1794540987~acl=/*~hmac=3594dff0bd474a6ce0dd1803a7692a757e0d5847c573d2d6a178b2c7a51127c9
 #EXTINF:0,Canal de las Estrellas Televisa
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1, Canal 4 TV
@@ -19,6 +21,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:0, FREE TV
 https://stream.ads.ottera.tv/cl/261109dbp54sdhangs73fksd10/854x480_1355200_3_f.m3u8?i=475_16215
+#EXTINF:0, TELEMUNDO ACION
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/136975a5-92ef-44c2-b2f3-f07954bdc2ec/0.m3u8
 #EXTINF:0, MAS TELEVISION
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 #EXTINF:60, MR BEAN ANIMADO
@@ -38,7 +42,7 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/ts-eu-w1-n2/p
 #EXTINF:0, TV CLASICA
 https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8?hls_ctx=prt6u638
 #EXTINF:-1, HBO 2
-https://srregio.online/php/regiotv_external.php?canal=HBO%202&u=regio36&exp=1794428684&sig=d762e0a51a5443b543eff82c895d43784e608c4f1f4d156134c29a9381fcc4da&f=.m3u8
+https://streaming.onnethn.com/HBO2/playlist.m3u8
 #EXTINF:30,8NTV (1080p)
 https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
 #EXTINF:0,Acustik TV (720p)
@@ -140,6 +144,8 @@ https://60417ddeaf0d9.streamlock.net/srtc/smil:srtc.smil/playlist.m3u8
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:0,CARTOON NETWORK
 http://45.162.64.114/CARTOON_NETWORK/index.m3u8
+#EXTINF:0, Los Pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:0,CB TV Michoacan (720p)
 https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
 #EXTINF:11,CineLatino (720p)
